@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I'm Jaimisky</p>
+<p>I'm <a href="instagram.com">Jaimisky</a></p>
